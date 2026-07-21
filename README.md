@@ -57,4 +57,4 @@ Bez silnika gier i bez frameworków UI — Vite + vanilla TypeScript (strict).
 ## Publikacja
 
 Każdy push do `main` uruchamia workflow `.github/workflows/pages.yml`, który
-buduje grę i publikuje ją na GitHub Pages (gałąź `gh-pages`).
+buduje grę i publikuje ją na GitHub Pages (deployment przez GitHub Actions).
