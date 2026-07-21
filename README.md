@@ -4,7 +4,7 @@ Neonowy runner 2D na canvasie sterowany jednym przyciskiem. Odwracaj grawitację
 omijaj kolce, zbieraj złote iskry seriami dla combo i przetrwaj jak najdłużej
 przy rosnącym tempie.
 
-🎮 **Graj online:** https://natanielbuko-droid.github.io/gra/
+🎮 **Graj online:** https://natanielbuko-droid.github.io/Gra/
 
 ## Uruchomienie
 
